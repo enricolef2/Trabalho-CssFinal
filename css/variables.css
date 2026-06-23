@@ -1,0 +1,9 @@
+:root {
+    --cor-fundo: #f4f7f6;
+    --cor-texto: #333333;
+    --cor-primaria: #2c3e50;
+    --cor-destaque: #3498db;
+    --cor-secundaria: #ffffff;
+    --fonte-titulos: 'Montserrat', sans-serif;
+    --fonte-textos: 'Roboto', sans-serif;
+}
