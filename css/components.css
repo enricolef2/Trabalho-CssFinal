@@ -399,3 +399,20 @@ button[type="submit"]:hover {
         grid-template-columns: repeat(3, 1fr);
     }
 }
+
+.social-links {
+    margin-bottom: 15px;
+}
+
+.social-links p {
+    font-size: 0.95rem;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.social-links a {
+    color: var(--cor-destaque);
+    font-size: 0.9rem;
+    margin: 0 5px;
+    font-weight: bold;
+}
